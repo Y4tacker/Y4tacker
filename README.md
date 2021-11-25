@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Y4tacker |
+### Hi there 👋 I'm Y4tacker
 
 ### 👋Scu Student/InfoSec/CTFer
 
