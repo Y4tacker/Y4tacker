@@ -8,4 +8,9 @@
 - 🍔 Blog: http://y4tacker.github.io/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://y4tacker.blog.csdn.net/
 </br>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Y4tacker&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Y4tacker" />
+</p>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MHuiG/MHuiG/output/github-contribution-grid-snake.svg)
