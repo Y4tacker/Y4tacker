@@ -11,3 +11,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Y4tacker&show_icons=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Y4tacker" />
 </p>
+ 
+ 
+![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
