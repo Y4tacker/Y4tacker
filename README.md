@@ -1,4 +1,4 @@
-### 👋Student/Security Researcher/CTFer    
+### 👋Security Researcher/CTFer    
 </br>
 
 - 🔭 某学院网络空间安全学生      
