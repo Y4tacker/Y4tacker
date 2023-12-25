@@ -12,10 +12,10 @@
 
 
 <a href="https://github.com/Y4tacker/JavaSec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Y4tacker&repo=JavaSec&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Y4tacker&repo=JavaSec&theme=radical" />
 </a>
 <a href="https://github.com/Y4tacker/HackingFernFlower">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Y4tacker&repo=HackingFernFlower&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Y4tacker&repo=HackingFernFlower&theme=radical" />
 </a>
 
 
