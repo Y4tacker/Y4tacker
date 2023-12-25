@@ -18,6 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Y4tacker&repo=HackingFernFlower&theme=radical" />
 </a>
 
+### Contributions in the last year
 
 ![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
